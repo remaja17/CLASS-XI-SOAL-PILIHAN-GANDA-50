@@ -1,0 +1,15 @@
+UPLOAD KE GITHUB (ROOT REPOSITORY)
+
+Wajib ada di root:
+- index.html
+- style.css
+- config.js
+- questions.js
+- script.js
+- .nojekyll
+
+Backend Apps Script:
+- apps-script/Code.gs (salin ke script.google.com, bukan dipanggil oleh browser)
+
+Aktifkan: GitHub Repository > Settings > Pages > Deploy from a branch > main > /(root) > Save.
+Sebelum upload, isi URL Apps Script pada config.js.
